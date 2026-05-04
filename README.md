@@ -45,6 +45,15 @@ Drew boxplots comparing retail price vs discounted price — found outliers in b
 
 ---
 
+## Files in this repo
+
+
+## Files in this repo
+
+-<a href="https://github.com/GeethatheAnalyst/Python-Project/blob/main/E-Commerce_Project.ipynb">Full analysis notebook with code and outputs</a>
+
+---
+
 ## Dataset
 
-E-commerce sales dataset provided as part of coursework at RRC Technologies, Thanjavur.
+- <a href="https://github.com/GeethatheAnalyst/Python-Project/blob/main/E-Commerce.csv">E-commerce sales dataset</a> | provided as part of coursework at RRC Technologies, Thanjavur.
